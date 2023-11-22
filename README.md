@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shovel34
-- 👀 I’m interested in programming, STEM("specifically physics")
+- 👀 I’m interested in programming, STEM("specifically physics") aswell as gaming
 - 🌱 I’m currently learning Python
   
 
